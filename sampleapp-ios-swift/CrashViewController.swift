@@ -12,7 +12,7 @@ class CrashViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
-        fatalErrorButton.layer.cornerRadius = 10.0
+        //fatalErrorButton.layer.cornerRadius = 10.0
 
         navigationController?.navigationBar.barTintColor = UIColor.black
         navigationController?.navigationBar.isTranslucent = false

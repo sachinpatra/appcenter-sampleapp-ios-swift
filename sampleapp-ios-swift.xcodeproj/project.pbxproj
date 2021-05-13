@@ -57,6 +57,7 @@
 		F02E65BD1F1454DC00F657C9 /* sampleapp_ios_swiftUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sampleapp_ios_swiftUITests.swift; sourceTree = "<group>"; };
 		F02E65BF1F1454DC00F657C9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F0DDF9751F157DCF00530C9B /* sampleapp-ios-swift.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "sampleapp-ios-swift.entitlements"; sourceTree = "<group>"; };
+		F104911B264CE7FB00FD7D1C /* sampleapp-ios-swift.xctestplan */ = {isa = PBXFileReference; lastKnownFileType = file; path = "sampleapp-ios-swift.xctestplan"; sourceTree = SOURCE_ROOT; };
 		F10F626826483F1D0089A692 /* sampleapp-ios-swiftTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "sampleapp-ios-swiftTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F10F626A26483F1D0089A692 /* sampleapp_ios_swiftTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sampleapp_ios_swiftTests.swift; sourceTree = "<group>"; };
 		F10F626C26483F1D0089A692 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -92,6 +93,7 @@
 		265586E41EF88770001914FC = {
 			isa = PBXGroup;
 			children = (
+				F104911B264CE7FB00FD7D1C /* sampleapp-ios-swift.xctestplan */,
 				265586EF1EF88770001914FC /* sampleapp-ios-swift */,
 				F02E65BC1F1454DC00F657C9 /* sampleapp-ios-swiftUITests */,
 				F10F626926483F1D0089A692 /* sampleapp-ios-swiftTests */,

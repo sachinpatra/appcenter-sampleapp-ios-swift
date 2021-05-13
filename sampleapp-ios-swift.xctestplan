@@ -1,0 +1,36 @@
+{
+  "configurations" : [
+    {
+      "id" : "34FD5A5E-6753-4319-B9C1-86F93F354EAB",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "codeCoverage" : false,
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:sampleapp-ios-swift.xcodeproj",
+      "identifier" : "265586EC1EF88770001914FC",
+      "name" : "sampleapp-ios-swift"
+    }
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:sampleapp-ios-swift.xcodeproj",
+        "identifier" : "F02E65BA1F1454DC00F657C9",
+        "name" : "sampleapp-ios-swiftUITests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:sampleapp-ios-swift.xcodeproj",
+        "identifier" : "F10F626726483F1D0089A692",
+        "name" : "sampleapp-ios-swiftTests"
+      }
+    }
+  ],
+  "version" : 1
+}
